@@ -1,0 +1,12 @@
+
+[Executed at: Fri Feb 9 21:04:36 PST 2024]
+
+========================= Task 1 Python =========================
+task1, 3.0
+
+========================= Task 2 Python =========================
+task2, 1
+Task2: Customized partition function runs longer than default partition (-1pt)
+========================= Task 3 Python =========================
+task3, 2
+
